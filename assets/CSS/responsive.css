@@ -31,6 +31,9 @@
         margin: 0.5rem 0 0.5rem;
         font-weight: 600;
     }
+
+    /* people */
+    
     /* end content */
     
 }
@@ -123,11 +126,6 @@
     .home-content {
         margin-left: 50px;
     }
-
-
-
-    
-
     
     /* end home */
 
@@ -283,7 +281,6 @@
 
     .header.active .header-nav  {
         padding: 15px 50px;
-        
     }
    
     /* start home */

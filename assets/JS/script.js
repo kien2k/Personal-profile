@@ -1,12 +1,10 @@
 let $ = document.querySelector.bind(document) 
 let $$ = document.querySelectorAll.bind(document) 
 
-
 let lines = $$('.nav .nav-list li a .nav-line')
 let menu = $('.header .nav .menu')
 let navList = $('.header .nav .nav-list')
 let menu_items = $$('.nav .nav-list li a')
-
 
 // xử lí menu khi cuộn xuống 
 window.onscroll = function() {
